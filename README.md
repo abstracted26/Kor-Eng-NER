@@ -1,1 +1,1 @@
-# Kor-Eng-NER
+## EC Plugin
